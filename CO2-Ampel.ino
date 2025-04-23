@@ -59,7 +59,7 @@ void setup(void)
   }
 
   // Set the sensor measurement interval to 1 second
-  sensor.setMeasCycle(sensor.eCycle_1s);
+  sensor.setMeasurementMode(sensor.eCycle_1s);
 }
 
 // The loop() function runs continuously after setup()
