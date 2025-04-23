@@ -43,7 +43,7 @@ Note: Use a 300–500 Ω resistor between Arduino pin D9 and DIN, and a 1000 µF
 
 1. Clone or download this repository:
 
-   git clone https://your-repo-url.git
+   git clone https://github.com/n15c/co2-light.git
 
 2. Install Arduino libraries via Library Manager:
 
